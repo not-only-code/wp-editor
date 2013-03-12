@@ -1,4 +1,4 @@
 wp-editor
 =========
 
-Useful Wordpress Editor classes
+Useful Wordpress Editor CSS classes
